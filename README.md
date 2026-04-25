@@ -25,6 +25,8 @@
 
 ---
 
+<img align="right" src="spongebob_coding_refined.png" width="350" style="border-radius: 12px; margin-left: 20px;" alt="SpongeBob Coding" />
+
 ## 🧠 About Me
 
 Transforming cutting-edge AI research into scalable, real-world systems.
@@ -34,6 +36,9 @@ Transforming cutting-edge AI research into scalable, real-world systems.
 - 🚀 **Currently:** Building scalable AI-powered applications  
 - 🤝 **Open to:** Collaborations in AI, ML & innovative tech  
 
+<br/>
+<br/>
+<br/>
 ---
 
 ## 🛠️ Tech Stack
