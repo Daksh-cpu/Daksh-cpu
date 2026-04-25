@@ -40,8 +40,81 @@ I design and build **intelligent AI systems** that transform research into real-
 
 ---
 
-# 💻 Tech Stack: <br/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+## 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+</p>
+
+---
+
+### 🤖 AI / ML
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
