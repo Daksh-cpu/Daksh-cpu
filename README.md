@@ -23,7 +23,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🧠 About Me
 
@@ -38,7 +38,7 @@ I design and build **intelligent AI systems** that transform research into real-
 
 <br/><br/><br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -54,8 +54,6 @@ I design and build **intelligent AI systems** that transform research into real-
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
 
----
-
 ### 🌐 Frontend
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -66,8 +64,6 @@ I design and build **intelligent AI systems** that transform research into real-
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
 </p>
 
----
-
 ### ⚙️ Backend & Frameworks
 <p>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
@@ -77,16 +73,12 @@ I design and build **intelligent AI systems** that transform research into real-
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
 </p>
 
----
-
 ### 🤖 AI / ML
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
 </p>
-
----
 
 ### ☁️ Cloud & DevOps
 <p>
@@ -95,15 +87,11 @@ I design and build **intelligent AI systems** that transform research into real-
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 
----
-
 ### 🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
 </p>
-
----
 
 ### 🧰 Tools
 <p>
@@ -116,7 +104,7 @@ I design and build **intelligent AI systems** that transform research into real-
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 Featured Work
 
@@ -124,7 +112,7 @@ I design and build **intelligent AI systems** that transform research into real-
 > Building **Agentic AI systems** and **multi-agent workflows**  
 > focused on real-world automation and intelligence.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📊 GitHub Insights
 
@@ -137,7 +125,7 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -145,7 +133,7 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=tokyonight&no-frame=true"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💡 Quote
 
