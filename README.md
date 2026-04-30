@@ -120,12 +120,12 @@ I design and build **intelligent AI systems** that transform research into real-
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact&hide_border=true" height="195px"/>
+        <!-- GitHub Stats Card (Left) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px"/>
       </td>
       <td align="center" width="50%">
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px"/>
+        <!-- Top Languages Card (Right) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact&hide_border=true" height="195px"/>
       </td>
     </tr>
   </table>
