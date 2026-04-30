@@ -117,15 +117,26 @@ I design and build **intelligent AI systems** that transform research into real-
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact" height="150"/>
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <!-- Top Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact&hide_border=true" height="195px"/>
+      </td>
+      <td align="center" width="50%">
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 
 ## 🏆 Achievements
 
