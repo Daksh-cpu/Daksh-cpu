@@ -151,3 +151,10 @@ I design and build **intelligent AI systems** that transform research into real-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+<br/>
+
+<!-- Continuous Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:ec4899&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
