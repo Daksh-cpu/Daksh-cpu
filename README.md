@@ -31,7 +31,7 @@
 
 I design and build **intelligent AI systems** that transform research into real-world impact.
 
-- 🧠 **Focus:** Agentic AI • Multi-Agent Systems • AI/ML • RAG Pipelines  
+- 🧠 **Focus:** Agentic AI • Multi-Agent Systems • AI/ML • UI/UX  
 - ⚙️ **Core Stack:** Python • LLMs • RAG • Transformers  
 - 🚀 **Currently:** Building scalable AI-powered applications  
 - 🤝 **Open to:** Collaborations & innovative AI projects  
