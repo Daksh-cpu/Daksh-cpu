@@ -116,17 +116,24 @@ I design and build **intelligent AI systems** that transform research into real-
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact&hide_border=true" height="195px" />
-</div>
+<p align="center">
+  <!-- Top Row: Stats (Left) & Languages (Right) -->
+  <a href="https://github.com/Daksh-cpu">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true&title_color=3B82F6" height="195px" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Daksh-cpu">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daksh-cpu&theme=tokyonight&layout=compact&hide_border=true&title_color=3B82F6" height="195px" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <!-- Bottom Row: Streak Stats -->
+  <a href="https://github.com/Daksh-cpu">
+    <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 
 
 ## 🏆 Achievements
