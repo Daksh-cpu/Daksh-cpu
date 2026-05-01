@@ -120,8 +120,8 @@ I design and build **intelligent AI systems** that transform research into real-
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <!-- GitHub Stats Card (Left) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px"/>
+        <!-- GitHub Stats Card (Left) using backup server -->
+        <img src="https://readme-stats.vercel.app/api?username=Daksh-cpu&theme=tokyonight&show_icons=true&hide_border=true" height="195px"/>
       </td>
       <td align="center" width="50%">
         <!-- Top Languages Card (Right) -->
@@ -135,7 +135,6 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 
 ## 🏆 Achievements
