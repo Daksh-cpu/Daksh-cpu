@@ -134,8 +134,9 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=dracula&no-bg=true&no-frame=true&margin-w=5&margin-h=5&row=1&column=8" alt="Daksh-cpu's Trophies" />
 </p>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Daksh-cpu.Daksh-cpu)
+<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Daksh-cpu&color=aquamarine)
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
