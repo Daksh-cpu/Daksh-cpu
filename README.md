@@ -124,6 +124,10 @@ I design and build **intelligent AI systems** that transform research into real-
   <a href="https://github.com/Daksh-cpu"><img src="https://streak-stats.demolab.com/?user=Daksh-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="195px" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Daksh-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 
@@ -134,9 +138,6 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=dracula&no-bg=true&no-frame=true&margin-w=5&margin-h=5&row=1&column=8" alt="Daksh-cpu's Trophies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Daksh-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
