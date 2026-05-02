@@ -136,10 +136,15 @@ I design and build **intelligent AI systems** that transform research into real-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+
+[![](https://komarev.com/ghpvc/?username=Daksh-cpu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ## 💡 Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 <br/>
