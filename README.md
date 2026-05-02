@@ -131,7 +131,6 @@ I design and build **intelligent AI systems** that transform research into real-
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=tokyonight&no-frame=true"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=dracula&no-bg=true&no-frame=true&margin-w=5&margin-h=5&row=1&column=8" alt="Daksh-cpu's Trophies" />
 </p>
 
