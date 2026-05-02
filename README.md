@@ -135,7 +135,7 @@ I design and build **intelligent AI systems** that transform research into real-
 </p>
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Daksh-cpu&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Daksh-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
