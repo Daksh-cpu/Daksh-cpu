@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🧠 About Me
+## 🧠 About Daksh
 
 <img align="right" src="spongebob_coding_refined.png" width="320"/>
 
@@ -33,7 +33,7 @@ I design and build **intelligent AI systems** that transform research into real-
 
 - 🧠 **Focus:** Agentic AI • Multi-Agent Systems • AI/ML • UI/UX  
 - ⚙️ **Core Stack:** Python • LLMs • RAG • Transformers  
-- 🚀 **Currently:** Building scalable AI-powered applications  
+- 🚀 **Currently:** Building scalable AI-powered applications 
 - 🤝 **Open to:** Collaborations & innovative AI projects  
 
 <br/><br/><br/>
