@@ -147,7 +147,6 @@ I design and build **intelligent AI systems** that transform research into real-
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-
 <!-- Continuous Animated Rainbow Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=120&section=footer" width="100%"/>
