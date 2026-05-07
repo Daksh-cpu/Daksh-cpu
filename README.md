@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🧠 About Daksh
+## 🧠 About Me
 
 <img align="right" src="spongebob_coding_refined.png" width="320"/>
 
