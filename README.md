@@ -138,11 +138,6 @@ I design and build **intelligent AI systems** that transform research into real-
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Daksh-cpu&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daksh-cpu&theme=radical" />
-</p>
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💡 Quote
