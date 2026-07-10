@@ -108,10 +108,21 @@ I design and build **intelligent AI systems** that transform research into real-
 
 ## 🚀 Featured Work
 
-### 🧠 AI Systems (In Progress)
-> Building **Agentic AI systems** and **multi-agent workflows**  
-> focused on real-world automation and intelligence.
+### 🌊 NexusFlow
+A high-throughput, distributed event-driven workflow automation engine. NexusFlow enables seamless orchestration of data pipelines, integrating disparate APIs with low-latency event processing, dynamic routing policies, and real-time visualization of running execution graphs.
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
+### 🌾 AgroAI
+An intelligent computer vision and machine learning platform dedicated to smart agriculture. AgroAI uses edge-deployed deep neural networks to perform early-stage crop disease detection, assess plant health metrics through multispectral imagery, and deliver predictive analytics on soil nutrients and estimated crop yields to optimize farm management.
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📊 GitHub Insights
