@@ -1,8 +1,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/><br/>
 <div align="center">
-
   <img src="spongebob_ai_banner_option3.png" width="100%" alt="Header Banner"/>
+
 # 👋 Hi, I'm Daksh
 ### Building Agentic AI & Scalable ML Systems for Real-World Impact
 
