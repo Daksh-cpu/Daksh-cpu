@@ -1,9 +1,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/><br/>
 <div align="center">
+  # 👋 Hi, I'm Daksh
   <img src="spongebob_ai_banner_option3.png" width="100%" alt="Header Banner"/>
 
-# 👋 Hi, I'm Daksh
 ### Building Agentic AI & Scalable ML Systems for Real-World Impact
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Agentic+AI+%7C+Multi-Agent+Systems;LLMs+%7C+RAG+Pipelines;Scalable+AI+Applications;Let’s+build+something+impactful)](https://git.io/typing-svg)
